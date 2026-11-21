@@ -1,2 +1,1 @@
-# jerrysdrinksapp
-Jerry's Drinks App
+# Jerry's Drinks App
